@@ -4,3 +4,4 @@ psycopg2-binary
 django_filter
 gunicorn
 flake8
+django-heroku
